@@ -48,5 +48,3 @@
 |---------|---------------|
 | `find / -perm -4000 -type f 2>/dev/null` | Find all SUID binaries |
 | `find / -perm -2000 -type f 2>/dev/null` | Find all SGID binaries |
-
-Most people Google basic commands. Attackers know that. They exploit the commands you forgot exist.
