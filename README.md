@@ -1,2 +1,3 @@
-# rare_linux_security_commands
-Linux security commands that most people forget or ignore. I keep them here so I don't forget.
+These Linux security commands most people forget or ignore. These commands that are often overlooked but actually useful.
+Most people Google the same basic commands. Attackers know that. These are the ones they don't expect you to check. Sharing in case it helps someone else.
+
